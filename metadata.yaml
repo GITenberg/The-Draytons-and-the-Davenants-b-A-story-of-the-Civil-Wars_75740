@@ -1,5 +1,8 @@
 _repo: The-Draytons-and-the-Davenants-b-A-story-of-the-Civil-Wars_75740
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75740-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Charles, Elizabeth Rundle
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25999
     wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Charles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75740#The-Draytons-and-the-Davenants-b-A-story-of-the-Civil-Wars
 gutenberg_issued: '2025-03-29'
 gutenberg_type: Text
 identifiers:
